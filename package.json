@@ -3,6 +3,13 @@
   "version": "1.0.1",
   "description": "Bypass client_connect_forbidden_host on webshare.io",
   "author": "nezu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dumbasPL/webshare-bypass"
+  },
+  "bugs": {
+    "url": "https://github.com/dumbasPL/webshare-bypass/issues"
+  },
   "keywords": [
     "webshare",
     "webshare.io",
