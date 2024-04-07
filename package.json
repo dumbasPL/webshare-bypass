@@ -1,6 +1,6 @@
 {
   "name": "webshare-bypass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bypass client_connect_forbidden_host on webshare.io",
   "author": "nezu",
   "keywords": [
